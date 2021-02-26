@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="create_contact">Create contact</string>
+
+    <!-- App bar menu items -->
+    <string name="app_bar_search">Search contact</string>
+    <string name="app_bar_switch">Switch layout</string>
+    <string name="app_bar_add">Add new contact</string>
+
+    <!-- Template contact list item -->
+    <string name="iv_contact_photo_description">Contact photo</string>
+    <string name="tv_contact_name">Contact name</string>
+    <string name="tv_contact_enterprise">Enterprise</string>
+</resources>
